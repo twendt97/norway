@@ -1,0 +1,25 @@
+slides:
+  -
+    img: schiff.jpg
+    caption-heading: Von Hirtshals nach Stavanger
+    caption-body: Am ersten Tag unserer Reise ging es von Hirtshals im Norden Dänemarks nach Stavanger an der Westküste Norwegens.
+    alt: Schiff im Sonnenuntergang
+  -
+    img: leuchtturm_fern.jpg
+    caption-heading: Lots of different vegetables
+    alt: Vegetables
+  -
+    img: schlange.jpg
+    caption: Lots of different vegetables
+    alt: Vegetables
+
+
+cards:
+  -
+    img: schiff.jpg
+    card-title: '#1 Anreise'
+    card-body: Schiffsreise von Hirtshals nach Stavanger
+  -
+    img: leuchtturm_fern.jpg
+    card-title: '#2 Anreise'
+    card-body: Fahrt von Stavanger nach Kristiansand
