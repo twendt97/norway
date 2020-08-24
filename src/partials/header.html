@@ -1,7 +1,27 @@
-<div class="grid-container fluid my-header">
-    <div class="grid-x grid-padding-x">
-        <div class="large-12 cell">
-            <h1>Norwegen Sommer 2020</h1>
-        </div>
+<!-- <div class="grid-container fluid my-header">
+     <div class="grid-x grid-padding-x grid-padding-y">
+     <div class="large-12 cell">
+     <h1>Norwegen Sommer 2020</h1>
+     </div>
+     </div>
+     </div> -->
+
+
+<div class="title-bar" data-responsive-toggle="responsive-menu" data-hide-for="medium">
+    <button class="menu-icon" type="button" data-toggle="responsive-menu"></button>
+    <div class="title-bar-title">Menu</div>
+</div>
+
+<div class="top-bar" id="responsive-menu">
+    <div class="top-bar-left">
+        <ul class="menu" data-dropdown-menu>
+            <li class="menu-text">Norwegen 2020</li>
+            {{#each header.places}}
+            <li> <a href="{{root}}{{name}}">{{name}}</a></li>
+            {{/each}}
+        </ul>
+    </div>
+    <div class="top-bar-right">
+        <img src="{{root}}assets/img/flag_norway.png" style="max-height: 50px;">
     </div>
 </div>

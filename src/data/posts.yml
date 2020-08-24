@@ -1,25 +1,46 @@
-slides:
+kristiansand:
   -
-    img: schiff.jpg
-    caption-heading: Von Hirtshals nach Stavanger
-    caption-body: Am ersten Tag unserer Reise ging es von Hirtshals im Norden Dänemarks nach Stavanger an der Westküste Norwegens.
-    alt: Schiff im Sonnenuntergang
-  -
-    img: leuchtturm_fern.jpg
-    caption-heading: Lots of different vegetables
-    alt: Vegetables
-  -
-    img: schlange.jpg
-    caption: Lots of different vegetables
-    alt: Vegetables
+    id: '1'
+    title-img: leuchtturm_fern.jpg
+    short: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus velit lectus, ut elementum dui placerat eget. Maecenas eget lacinia mauris, eu volutpat ligula.
+    title: Anreise
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus velit lectus, ut elementum dui placerat eget. Maecenas eget lacinia mauris, eu volutpat ligula. Nulla nec libero at eros vehicula cursus. Aliquam quis mattis velit. Phasellus posuere, lorem in tempor laoreet, felis felis auctor nisl, non gravida orci nisl non quam. Nulla vulputate diam et imperdiet finibus. Nunc id purus feugiat, pulvinar enim ut, lacinia sapien.
+    
+    slides:
+      -
+        img: schiff.jpg
+        caption-heading: Von Hirtshals nach Stavanger
+        caption-body: Am ersten Tag unserer Reise ging es von Hirtshals im Norden Dänemarks nach Stavanger an der Westküste Norwegens.
+        alt: Schiff im Sonnenuntergang
+      -
+        img: leuchtturm_fern.jpg
+        caption-heading: Lots of different vegetables
+        alt: Vegetables
+      -
+        img: schlange.jpg
+        caption: Lots of different vegetables
+        alt: Vegetables
 
-
-cards:
   -
-    img: schiff.jpg
-    card-title: '#1 Anreise'
-    card-body: Schiffsreise von Hirtshals nach Stavanger
-  -
-    img: leuchtturm_fern.jpg
-    card-title: '#2 Anreise'
-    card-body: Fahrt von Stavanger nach Kristiansand
+    id: '1'
+    title-img: leuchtturm_fern.jpg
+    title: Von Stavanger nach Kristiansand
+    short: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus velit lectus, ut elementum dui placerat eget. Maecenas eget lacinia mauris, eu volutpat ligula.
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus velit lectus, ut elementum dui placerat eget. Maecenas eget lacinia mauris, eu volutpat ligula. Nulla nec libero at eros vehicula cursus. Aliquam quis mattis velit. Phasellus posuere, lorem in tempor laoreet, felis felis auctor nisl, non gravida orci nisl non quam. Nulla vulputate diam et imperdiet finibus. Nunc id purus feugiat, pulvinar enim ut, lacinia sapien.
+    
+    slides:
+      -
+        short: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus velit lectus, ut elementum dui placerat eget. Maecenas eget lacinia mauris, eu volutpat ligula.
+        title: Von Stavanger nach Kristiansand
+        img: schiff.jpg
+        caption-heading: Von Hirtshals nach Stavanger
+        caption-body: Am ersten Tag unserer Reise ging es von Hirtshals im Norden Dänemarks nach Stavanger an der Westküste Norwegens.
+        alt: Schiff im Sonnenuntergang
+      -
+        img: leuchtturm_fern.jpg
+        caption-heading: Lots of different vegetables
+        alt: Vegetables
+      -
+        img: schlange.jpg
+        caption: Lots of different vegetables
+        alt: Vegetables

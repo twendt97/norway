@@ -5,13 +5,18 @@
             <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
         </div>
         <ul class="orbit-container">
-            {{#each posts.slides}}
+            {{#each slides}}
             <li class="is-active orbit-slide">
                 <figure class="orbit-figure">
-                    <img class="orbit-image" src="../assets/img/{{img}}" alt="{{ alt }}">
-                    <figcaption class="orbit-caption"><h1>{{ caption-heading }}</h1> <br>
+                    <img class="orbit-image" src="{{root}}/assets/img/{{img}}" alt="{{alt}}">
+                    {{#if caption-heading}}
+                    {{#if caption-body}}
+                    <figcaption class="orbit-caption">
+                        <h1>{{ caption-heading }}</h1> <br>
                         <p> {{ caption-body }} </p>
                     </figcaption>
+                    {{/if}}
+                    {{/if}}
                 </figure>
             </li>
             {{/each}}
