@@ -1,8 +1,33 @@
 places:
   -
     name: Kristiansand
+    pname: kristiansand
+    date: 23.08. - 28.08.
   -
     name: Stavanger
-
+    pname: stavanger
+    date: 28.08. - 31.08.
   -
     name: Bergen
+    pname: bergen
+    date: 31.08. - 06.09.
+  -
+    name: Ålesund
+    pname: alesund
+    date: 06.09. - 12.09.
+  -
+    name: Trondheim
+    pname: trondheim
+    date: 12.09. - 16.09.
+  -
+    name: Lillehammer
+    pname: lillehammer
+    date: 16.09. - 18.09.
+  -
+    name: Oslo
+    pname: oslo
+    date: 18.09. - 22.09.
+  -
+    name: Kopenhagen
+    pname: kopenhagen
+    date: 23.09. - 26.09.

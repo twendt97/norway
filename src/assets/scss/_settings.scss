@@ -65,7 +65,7 @@
 // 1. Global
 // ---------
 
-$global-font-size: 150%;
+$global-font-size: 140%;
 $global-width: rem-calc(1500);
 $global-lineheight: 1.5;
 $foundation-palette: (
@@ -90,7 +90,7 @@ $global-position: 1rem;
 $global-weight-normal: normal;
 $global-weight-bold: bold;
 $global-radius: 0;
-$global-menu-padding: 0.7rem 1rem;
+$global-menu-padding: 1rem 0.5rem;
 $global-menu-nested-margin: 1rem;
 $global-text-direction: ltr;
 $global-flexbox: true;
@@ -497,7 +497,7 @@ $menu-items-padding: $global-menu-padding;
 $menu-simple-margin: 1rem;
 $menu-item-color-active: $white;
 $menu-item-color-alt-active: $black;
-$menu-item-background-active: get-color(primary);
+$menu-item-background-active: $white;
 $menu-icon-spacing: 0.25rem;
 $menu-state-back-compat: true;
 $menu-centered-back-compat: true;
@@ -871,7 +871,7 @@ $tooltip-radius: $global-radius;
 // 55. Top Bar
 // -----------
 
-$topbar-padding: 1rem;
+$topbar-padding: 0rem;
 $topbar-background: $primary-color;
 $topbar-submenu-background: $white;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;

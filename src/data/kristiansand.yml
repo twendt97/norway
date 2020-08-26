@@ -1,0 +1,23 @@
+  -
+    id: '1'
+    title-img: leuchtturm_fern.jpg
+    short: 
+    title: Anreise
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus velit lectus, ut elementum dui placerat eget. Maecenas eget lacinia mauris, eu volutpat ligula. Nulla nec libero at eros vehicula cursus. Aliquam quis mattis velit. Phasellus posuere, lorem in tempor laoreet, felis felis auctor nisl, non gravida orci nisl non quam. Nulla vulputate diam et imperdiet finibus. Nunc id purus feugiat, pulvinar enim ut, lacinia sapien.
+    
+    slides:
+      -
+        img: schiff.jpg
+        alt: Schiff im Sonnenuntergang
+      -
+        img: leuchtturm_fern.jpg
+        caption-heading: Lots of different vegetables
+        alt: Vegetables
+      -
+        img: schlange.jpg
+        caption: Lots of different vegetables
+        alt: Vegetables
+
+
+
+

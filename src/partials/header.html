@@ -7,21 +7,22 @@
      </div> -->
 
 
-<div class="title-bar" data-responsive-toggle="responsive-menu" data-hide-for="medium">
+
+<div class="title-bar" data-responsive-toggle="responsive-menu" data-hide-for="large">
     <button class="menu-icon" type="button" data-toggle="responsive-menu"></button>
-    <div class="title-bar-title">Menu</div>
+    <div class="title-bar-title">Orte</div>
 </div>
 
-<div class="top-bar" id="responsive-menu">
-    <div class="top-bar-left">
-        <ul class="menu" data-dropdown-menu>
-            <li class="my-menu-text"> <a href="{{root}}/index.html" class="menu-anchor"> Norwegen 2020 </a></li>
-            {{#each header.places}}
-            <li> <a href="{{root}}/{{name}}.html" class="menu-anchor">{{name}}</a></li>
-            {{/each}}
-        </ul>
+
+<div data-sticky-container>
+    <div class="top-bar" id="responsive-menu" data-sticky data-options="marginTop:0;" style="width:100%">
+        <div class="top-bar-left">
+            <ul class="vertical large-horizontal menu" data-dropdown-menu>
+                <li class="my-menu-text"> <a href="{{root}}/index.html" class="menu-anchor"> Norwegen 2020 </a></li>
+                {{#each header.places}}
+                <li {{#ifpage pname}}class="is-active"{{/ifpage}}> <a href="{{root}}/{{pname}}.html" class="menu-anchor">{{name}}</a></li>
+                {{/each}}
+            </ul>
+        </div>
     </div>
-    <!-- <div class="top-bar-right">
-         <img src="{{root}}assets/img/flag_norway.png" style="max-height: 50px;">
-         </div> -->
 </div>
