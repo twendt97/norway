@@ -1,7 +1,13 @@
+$card-margin: 0px;
+
 .card {
-    box-shadow: 4px 4px 10px $dark-gray;
+    //box-shadow: 0 0  10px $dark-gray;
 
     .card-btn {
         text-align: center;
     }
+}
+
+.card-wrapper {
+    margin: $card-margin;
 }

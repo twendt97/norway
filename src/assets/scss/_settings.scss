@@ -65,8 +65,8 @@
 // 1. Global
 // ---------
 
-$global-font-size: 100%;
-$global-width: rem-calc(1200);
+$global-font-size: 150%;
+$global-width: rem-calc(1500);
 $global-lineheight: 1.5;
 $foundation-palette: (
   primary: #002868,
@@ -349,8 +349,8 @@ $callout-link-tint: 30%;
 $card-background: $white;
 $card-font-color: $body-font-color;
 $card-divider-background: $light-gray;
-$card-border: 1px solid $light-gray;
-$card-shadow: none;
+$card-border: 0px solid $light-gray;
+$card-shadow: 0 0 10px $dark-gray;
 $card-border-radius: $global-radius;
 $card-padding: $global-padding;
 $card-margin-bottom: $global-margin;
@@ -871,9 +871,9 @@ $tooltip-radius: $global-radius;
 // 55. Top Bar
 // -----------
 
-$topbar-padding: 0.5rem;
-$topbar-background: $dark-gray;
-$topbar-submenu-background: $topbar-background;
+$topbar-padding: 1rem;
+$topbar-background: $primary-color;
+$topbar-submenu-background: $white;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;
 $topbar-input-width: 200px;
 $topbar-unstack-breakpoint: medium;

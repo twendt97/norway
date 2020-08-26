@@ -4,5 +4,19 @@
 }
 
 .menu{
-    font-size: 200%
+    color: $white;
+    font-size: 120%;
+
+    a{
+        color: white
+    }
+
+    a:hover{
+        color: $black;
+        background-color: $white
+    }
+
+    .my-menu-text{
+        font-weight: bold;
+    }
 }

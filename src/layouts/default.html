@@ -9,13 +9,12 @@
     <title>Foundation for Sites</title>
     <link rel="stylesheet" href="{{root}}assets/css/app.css">
   </head>
-<body>
-
-
-    {{> header}}
-{{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}}
-{{> body}}
-
-<script src="{{root}}assets/js/app.js"></script>
+  <body>
+      <div id="wrapper">
+          {{> header}}
+          {{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}}
+          {{> body}}
+      </div>
+      <script src="{{root}}assets/js/app.js"></script>
 </body>
 </html>
