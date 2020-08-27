@@ -1,0 +1,14 @@
+.orbit{
+    .orbit-image {
+        max-height: 600px;
+        object-fit: cover;
+        vertical-align: middle;
+    }
+
+    .orbit-caption {
+        p {
+            font-size: 150%
+        }
+    }
+
+}
