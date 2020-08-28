@@ -1,5 +1,69 @@
 posts:
   -
+    id: '3'
+    title: 'Erkundung von Kristiansand und Umgebung'
+    title-img: IMGP2670.jpg
+    short: 'Während unseres Aufenthaltes in Kristiansand haben wir uns vor allem die Stadt und die Umgebung angeschaut. Kristiansand ist für norwegische Verhältnisse eine von der Sonne verwöhnte Stadt mit einer schönen Uferpromenade und direktem Anschluss an ein wunderbares Naherholungsgebiet.'
+    text: 'Während unseres Aufenthaltes in der Nähe von Kristiansand haben wir in einem kleinen hübschen Haus mit Ausblick auf eine kleine Bucht und einen Leuchtturm auf der Insel Flekkeroy gewohnt. Nach einer Erkundung dieser Insel am ersten Tag folgte ein Ausflug in die Innenstadt von Kristiansand, die etwa 25 Autominuten entfernt liegt. Ein besonderes Highlight ist hier das Theater, welches direkt am Wasser gelegen ist und durch seine außergewöhnliche Architektur ins Auge sticht. Des Weiteren gibt es eine schöne Uferpromenade, die direkt am Fischmarkt vorbei führt, wo eine große Auswahl von Fischspezialitäten angeboten wird. Außerdem erwähnenswert ist die gute Lage direkt an einem ausgedehnten Naherholungsgebiet, welches zum Wandern und im Winter zum Langlaufen einlädt. Alles in allem haben wir unsere Zeit in und um Kristiansand sehr genossen und haben einen schönen Einstieg in unsere Norwegenreise gefunden.'
+    dir: kristiansand
+    slides:
+      -
+        img: IMGP2493.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2498.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2505.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2538.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2549.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2552.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2593.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      - 
+        img: IMGP2619.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2635.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2639.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2659.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2670.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2690.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: IMGP2692.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: wandern.jpg
+        alt: Zwei Maedchen beim Wandern
+      -
+        img: heidelbeeren.jpg
+        alt: Wildheidelbeeren
+      -
+        img: IMGP2453.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: schatten.jpg
+        alt: 'Bild aus Kristiansand, Norwegen'
+
+  
+  -
     id: '2'
     title: 'Von Stavanger nach Kristiansand'
     short: 'Nach der Ankunft in Stavanger mussten wir zu unserer ersten Unterkunft gelangen. Unsere Fahrt führte durch eine imposante Küstenlinie geformt von den Gletschern der vergangenen Eiszeit'
