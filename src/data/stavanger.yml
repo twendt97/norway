@@ -1,0 +1,33 @@
+posts:
+  -
+    id: '4'
+    title: 'Wanderung auf den Reinaknuten'
+    title-img: IMGP2808.jpg
+    short: 'Der 29. August war dem Aufstieg auf den Reinaknuten gewidmet. Die ca. 12 Kilometer lange Wanderung ging über etwa 1000 Höhenmeter und trotz der geringen Höhe kam alpines Feeling auf.'
+    text: 'Nicht weit von unserer Unterkunft in Jørpeland haben wir den Aufstieg auf einen der höchsten Berg der Umgebung, den Reinaknuten, gestartet. Trotz der geringen absoluten Höhe von gerade einmal 787 Meter über dem Meeresspiegel kommt auf dem Weg alpines Flair auf. Schon bei etwa 500 Höhenmetern erreicht man die Baumgrenze und danach fühlt man sich wie im Hochgebirge: Felsen und Heidekraut so weit das Auge reicht. Oben angekommen wird man durch eine grandiose Aussicht auf den Tysdalsvatnet (See im angrenzenden Tal) und imposante steil abfallende Felswände belohnt. Diese erste größere Wandertour in Norwegen hat Lust auf mehr gemacht.'
+    dir: stavanger
+    slides:
+      -
+        img: julia_thilo.jpg
+        alt: 'Bild von der Wanderung auf den Reinaknuten'
+      -
+        img: IMGP2745.jpg
+        alt: 'Bild von der Wanderung auf den Reinaknuten'
+      -
+        img: IMGP2768.jpg
+        alt: 'Bild von der Wanderung auf den Reinaknuten'
+      -
+        img: IMGP2779.jpg
+        alt: 'Bild von der Wanderung auf den Reinaknuten'
+      -
+        img: IMGP2790.jpg
+        alt: 'Bild von der Wanderung auf den Reinaknuten'
+      -
+        img: IMGP2808.jpg
+        alt: 'Bild von der Wanderung auf den Reinaknuten'
+      -
+        img: schild.jpg
+        alt: 'Bild von der Wanderung auf den Reinaknuten'
+      -
+        img: selfie.jpg
+        alt: 'Bild von der Wanderung auf den Reinaknuten'

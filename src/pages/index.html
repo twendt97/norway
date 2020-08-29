@@ -18,6 +18,9 @@
 
 <div class="grid-container">
     <div class="grid-x grid-margin-x small-up-1 large-up-2">
+        {{#each stavanger.posts}}
+        {{> card page='stavanger.html'}}
+        {{/each}}
         {{#each kristiansand.posts}}
         {{> card page='kristiansand.html'}}
         {{/each}}

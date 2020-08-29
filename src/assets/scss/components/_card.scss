@@ -3,6 +3,9 @@ $card-margin: 0px;
 .card {
     //box-shadow: 0 0  10px $dark-gray;
 
+    p{
+        text-align: justify;
+    }
     .card-btn {
         text-align: center;
     }

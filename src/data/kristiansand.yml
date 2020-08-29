@@ -61,31 +61,32 @@ posts:
       -
         img: schatten.jpg
         alt: 'Bild aus Kristiansand, Norwegen'
+      -
+        img: schule.jpg
+        alt: 'Schule in Kristiansand, Norwegen'
 
   
   -
     id: '2'
     title: 'Von Stavanger nach Kristiansand'
     short: 'Nach der Ankunft in Stavanger mussten wir zu unserer ersten Unterkunft gelangen. Unsere Fahrt führte durch eine imposante Küstenlinie geformt von den Gletschern der vergangenen Eiszeit'
-    title-img: blick_von_leuchtturm.jpg
+    title-img: 20200823_140024.jpg
     dir: kristiansand
     text: 'Unsere Stationen auf dem Weg: Der Solastrand Verschiedene Orte an der Küste Am südlichsten Punkt Norwegens: Der Leuchtturm Lindesnes Fyr. Eine Fahrt an der Küstenstraße hat seinen ganz besonderen Reiz und jede Kurve hält einen neuen spektakulären Blick bereit.'
     slides:
       -
-        img: auf_meer.jpg
-        alt: blick aufs meer
+        img: 20200823_140024.jpg
+        alt: Blick auf Meer
       -
-        img: blick_von_leuchtturm.jpg
-        alt: Blick vom Leuchtturm herunter
+        img: 20200824_123831.jpg
+        alt: Blick von Lindesnes Fyr
       -
-        img: fotograf.jpg
-        alt: Thilo am fotographieren
+        img: haus.jpg
+        alt: Norwegisches Haus
       -
-        img: sophia.jpg
-        alt: Sophia
-      -
-        img: welle.jpg
-        alt: brechende Welle
+        img: leuchtturm.jpg
+        alt: Lindesnes Fyr
+        
   -
     id: '1'
     title-img: schiff.jpg
@@ -101,20 +102,5 @@ posts:
         img: autofahrt.jpg
         alt: Fahrt auf der Autobahn
       -
-        img: wa_1.jpeg
-        alt: Schiff 1
-      -
-        img: wa_2.jpeg
-        alt: Schiff 2
-      -
-        img: wa_3.jpeg
-        alt: Schiff 3
-      -
-        img: wa_4.jpeg
-        alt: Schiff 4
-      -
-        img: wa_5.jpeg
-        alt: Schiff 5
-      -
-        img: wa_6.jpeg
-        alt: Schiff 6
+        img: an_deck.jpg
+        alt: An Deck der Fähre
