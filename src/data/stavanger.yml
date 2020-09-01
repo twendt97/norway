@@ -1,5 +1,41 @@
 posts:
   -
+    id: '5'
+    title: 'Wanderung zum Preikestolen'
+    title-img: IMGP2904_cut.jpg
+    short: 'Unsere Wanderung auf den Reinaknuten hat Lust auf mehr gemacht. Obligatorisch für einen Besuch in Stavanger stand am darauf folgenden Tag der Aufstieg zum Preikestolen an - ein spektakuläres Ziel aber nicht unbedingt der Spiegel Norwegens...'
+    text: 'Die Wanderung auf den Preikestolen startet etwa 400 Höhenmeter unterhalb des Ziels am Parkplatz, welcher aufgrund der außerordentlichen Berümtheit dieses Felsens mit 250 norwegischen Kronen zu Buche schlägt. Dafür erhält man einen sehr gut ausgebauten Pfad zum Felsen und jede Menge Gesellschaft. Das sonst so einsame Land wirkt auf einmal wie eine Versammlungsstätte verschiedenster Nationen, denn alle, die in diese Region Norwegens kommen, wollen einen Blick auf den Felsen und natürlich auch auf den 600 Meter tiefer liegenden Lysefjord erhaschen. Der Anstieg selbst ist in etwa zwei Stunden gut zu machen und wer noch Zeit und Lust hat, sollte auch ein Abstecher auf die weit weniger überlaufenen anliegenden Gipfel machen. Ein Besuch hier lohnt sich auf jeden Fall, jedoch spiegelt er nicht die sonst so einsame Natur Norwegens wider.'
+    dir: stavanger
+    slides:
+      -
+        img: 20200830_131549.jpg
+        alt: 'Wanderung auf den Preikestolen'
+      -
+        img: IMGP2841.jpg
+        alt: 'Wanderung auf den Preikestolen'
+      -
+        img: IMGP2849.jpg
+        alt: 'Wanderung auf den Preikestolen'
+      -
+        img: IMGP2878.jpg
+        alt: 'Wanderung auf den Preikestolen'
+      -
+        img: IMGP2906.jpg
+        alt: 'Wanderung auf den Preikestolen'
+      -
+        img: IMGP2914.jpg
+        alt: 'Wanderung auf den Preikestolen'
+      -
+        img: IMGP2926.jpg
+        alt: 'Wanderung auf den Preikestolen'
+      -
+        img: IMGP2937.jpg
+        alt: 'Wanderung auf den Preikestolen'
+      -
+        img: IMGP2947.jpg
+        alt: 'Wanderung auf den Preikestolen'
+
+  -
     id: '4'
     title: 'Wanderung auf den Reinaknuten'
     title-img: IMGP2808.jpg
@@ -31,3 +67,6 @@ posts:
       -
         img: selfie.jpg
         alt: 'Bild von der Wanderung auf den Reinaknuten'
+
+
+  
