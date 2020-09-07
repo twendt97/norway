@@ -1,0 +1,70 @@
+posts:
+  -
+    id: '7'
+    title: 'Bergen'
+    title-img: IMGP3203.jpg
+    short: 'Auch wenn Bergen die zweitgrößte Stadt Norwegens ist, kann man nicht von Großstadtstimmung sprechen, wenn man die engen Gassen erkundet und die bunten Holzhäuser am Hafen bewundert. Die Stadt Bergen bietet ein gemütliches Ambiente und überall hat man die Möglichkeit, norwegische Köstlichkeiten zu erstehen.'
+    text: 'Die zweitgrößte Stadt Norwegens zählt gerade einmal knapp 280.000 Einwohner und das merkt man ihr an. Von Großstadthektik ist nichts zu spüren und auf ein Verkehrsmittel ist man in der Innenstadt nicht angewiesen. Diese ist zu Fuß in weniger als einer Stunde zu durchqueren. Charmant an Bergen ist vor allem die Auswahl an einheimischen Läden. Statt der üblichen Modeketten sieht man hier eher die typischen Norwegischen Wollpullover in den Schaufenstern und in den alten Kontoren in Bryggen kann man heute Leckereien probieren und allerlei Krusch und Mitbringsel erstehen. Auch das meist schlechte Wetter lässt sich bei einem Besuch in einem gemütlichen der Cafés gut aushalten.'
+    dir: bergen
+    slides:
+      -
+        img: bergen_top_view.jpg
+        alt: 'Stadt Bergen'
+      -
+        img: IMGP3134.jpg
+        alt: 'Stadt Bergen'
+      -
+        img: IMGP3139.jpg
+        alt: 'Stadt Bergen'
+      -
+        img: IMGP3188.jpg
+        alt: 'Stadt Bergen'
+      -
+        img: IMGP3193.jpg
+        alt: 'Stadt Bergen'
+      -
+        img: IMGP3203.jpg
+        alt: 'Stadt Bergen'
+      -
+        img: IMGP3207.jpg
+        alt: 'Stadt Bergen'
+      -
+        img: IMGP3210.jpg
+        alt: 'Stadt Bergen'
+
+  -
+    id: '6'
+    title: 'Die Umgebung von Bergen'
+    title-img: group_pic.jpg
+    short: 'Die Umgebung von Bergen hält für den naturverbundenen Stadtmenschen einiges bereit. Bergen ist umgeben von 7 Bergen, von denen einige aus dem Stadtzentrum gut erreichbar sind. Plant man etwas mehr Fahrzeit ein, erreicht man schnell die gewohnte norwegische Einsamkeit.'
+    text: 'Während unseres Aufenthaltes in Bergen hatten wir ein schönes Haus etwa eine halbe Stunde außerhalb vom Stadtzentrum. Wir befanden uns also schon in der ruhigen Umgebung von Bergen und nutzten die Lage als Ausgangspunkt Richtung Stadt und noch weiter in die Natur. Bergen selbst hält für Wanderer verschiedene Möglichkeiten bereit. Dazu zählen zum Beispiel das Lyderhorn sowie der Floyen. Der Gipfel des Floyens lässt sich gut als Ausgangspunkt für die etwa drei stündige Wanderung auf den Blamanen und auf den daneben liegendenden Rundemanen nutzen. Wir hatten Glück mit dem Wetter und konnten die Aussicht genießen. Nördlich von Bergen gibt es einige dünn besiedelte Inseln, welche sich für entspannte Spaziergänge in flachem Gelände eignen. Windsurfen und Segeln kann man natürlich auch! Insgesamt bietet Bergen eine gute Mischung aus Stadt und Natur. In wenigen Minuten ist man auch zu Fuß mitten im Grünen wenn auch nicht in der Einsamkeit.'
+    dir: bergen
+    slides:
+      -
+        img: bergen_mountain_2.jpg
+        alt: 'Wanderung um Bergen'
+      -
+        img: bergen_mountain_3.jpg
+        alt: 'Wanderung um Bergen'
+      -
+        img: bergen_mountain.jpg
+        alt: 'Wanderung um Bergen'
+      -
+        img: group_pic.jpg
+        alt: 'Wanderung um Bergen'
+      -
+        img: IMGP3094.jpg
+        alt: 'Wanderung um Bergen'
+      -
+        img: IMGP3096.jpg
+        alt: 'Wanderung um Bergen'
+      -
+        img: IMGP3107.jpg
+        alt: 'Wanderung um Bergen'
+      -
+        img: IMGP3112.jpg
+        alt: 'Wanderung um Bergen'
+      -
+        img: IMGP3170-hdr.jpg
+        alt: 'Ölbohrinsel bei Nacht'
+
